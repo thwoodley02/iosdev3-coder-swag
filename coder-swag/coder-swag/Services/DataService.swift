@@ -25,18 +25,18 @@ class DataService {
         Product(title: "Deveslopes Logo Graphic Beanie", price: "£12", imageName: "hat04.png")
     ]
     private let hoodies = [
-        Product(title: "Devslopes Logo Hoodie Gray", price: "£32", imageName: "hoodie01.png"),
-        Product(title: "Devslopes Logo Hoodie Red", price: "£32", imageName: "hoodie02.png"),
-        Product(title: "Devslopes Logo Hoodie Grey", price: "£32", imageName: "hoodie03.png"),
-        Product(title: "Devslopes Logo Hoodie Black", price: "£32", imageName: "hoodie04.png")
+        Product(title: "Deveslopes Logo Graphic Hoodie 1", price: "£18", imageName: "hoodie01.png"),
+        Product(title: "Deveslopes Logo Graphic Hoodie 2", price: "£28", imageName: "hoodie02.png"),
+        Product(title: "Deveslopes Logo Graphic Hoodie 3", price: "£18", imageName: "hoodie03.png"),
+        Product(title: "Deveslopes Logo Graphic Hoodie 4", price: "£12", imageName: "hoodie04.png")
     ]
     
     private let shirts = [
-        Product(title: "Devslopes Logo Shirt Black", price: "£22", imageName: "shirt01.png"),
-        Product(title: "Devslopes Logo Shirt Light Gray", price: "£22", imageName: "shirt02.png"),
-        Product(title: "Devslopes Logo Shirt Red", price: "£22", imageName: "shirt03.png"),
-        Product(title: "Hustle Delegate Gray", price: "£22", imageName: "shirt04.png"),
-        Product(title: "Kickflip Studios Black", price: "£22", imageName: "shirt05.png"),
+        Product(title: "TShirt Number 1", price: "£28", imageName: "shirt01.png"),
+        Product(title: "TShirt Number 2", price: "£28", imageName: "shirt02.png"),
+        Product(title: "TShirt Number 3", price: "£28", imageName: "shirt03.png"),
+        Product(title: "TShirt Number 4", price: "£28", imageName: "shirt04.png"),
+        Product(title: "TShirt Number 5", price: "£28", imageName: "shirt05.png")
     ]
     
     private let digitalGoods = [Product]()
